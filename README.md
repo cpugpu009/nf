@@ -1,0 +1,2 @@
+# nf
+my script
